@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "I7wWPd3a3UCu76naTfocYrVFkbtMGqbV6/EdVu15a23RxmVxG9fbGifPROYR+e2raRKrr8bGyuUxEPwgtZGHXg==",
+  "dgSpecHash": "MG5UB3o6A2JUrcRWM1kX38zz2JeuwLZwCA2T8Z6gSWlGWCiRLVXfefDMRBxXAC3tgjd6W/AyjyAmEpicoaT3Qg==",
   "success": true,
-  "projectFilePath": "D:\\Antinori\\ModeloParcialClase12_DAS\\UI\\UI\\UI.csproj",
+  "projectFilePath": "D:\\Antinori\\ModeloParcialClase12_DAS\\UI\\UAIStore\\UI\\UI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Navegador\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\Navegador\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

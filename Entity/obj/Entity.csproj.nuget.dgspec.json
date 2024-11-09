@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Antinori\\ModeloParcialClase12_DAS\\UI\\Entity\\Entity.csproj": {}
+    "D:\\Antinori\\ModeloParcialClase12_DAS\\UI\\UAIStore\\Entity\\Entity.csproj": {}
   },
   "projects": {
-    "D:\\Antinori\\ModeloParcialClase12_DAS\\UI\\Entity\\Entity.csproj": {
+    "D:\\Antinori\\ModeloParcialClase12_DAS\\UI\\UAIStore\\Entity\\Entity.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Antinori\\ModeloParcialClase12_DAS\\UI\\Entity\\Entity.csproj",
+        "projectUniqueName": "D:\\Antinori\\ModeloParcialClase12_DAS\\UI\\UAIStore\\Entity\\Entity.csproj",
         "projectName": "Entity",
-        "projectPath": "D:\\Antinori\\ModeloParcialClase12_DAS\\UI\\Entity\\Entity.csproj",
+        "projectPath": "D:\\Antinori\\ModeloParcialClase12_DAS\\UI\\UAIStore\\Entity\\Entity.csproj",
         "packagesPath": "C:\\Users\\Navegador\\.nuget\\packages\\",
-        "outputPath": "D:\\Antinori\\ModeloParcialClase12_DAS\\UI\\Entity\\obj\\",
+        "outputPath": "D:\\Antinori\\ModeloParcialClase12_DAS\\UI\\UAIStore\\Entity\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -4090,11 +4090,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Antinori\\ModeloParcialClase12_DAS\\UI\\UI\\UI.csproj",
+      "projectUniqueName": "D:\\Antinori\\ModeloParcialClase12_DAS\\UI\\UAIStore\\UI\\UI.csproj",
       "projectName": "UI",
-      "projectPath": "D:\\Antinori\\ModeloParcialClase12_DAS\\UI\\UI\\UI.csproj",
+      "projectPath": "D:\\Antinori\\ModeloParcialClase12_DAS\\UI\\UAIStore\\UI\\UI.csproj",
       "packagesPath": "C:\\Users\\Navegador\\.nuget\\packages\\",
-      "outputPath": "D:\\Antinori\\ModeloParcialClase12_DAS\\UI\\UI\\obj\\",
+      "outputPath": "D:\\Antinori\\ModeloParcialClase12_DAS\\UI\\UAIStore\\UI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -4115,11 +4115,11 @@
         "net8.0-windows7.0": {
           "targetAlias": "net8.0-windows",
           "projectReferences": {
-            "D:\\Antinori\\ModeloParcialClase12_DAS\\UI\\BLL\\BLL.csproj": {
-              "projectPath": "D:\\Antinori\\ModeloParcialClase12_DAS\\UI\\BLL\\BLL.csproj"
+            "D:\\Antinori\\ModeloParcialClase12_DAS\\UI\\UAIStore\\BLL\\BLL.csproj": {
+              "projectPath": "D:\\Antinori\\ModeloParcialClase12_DAS\\UI\\UAIStore\\BLL\\BLL.csproj"
             },
-            "D:\\Antinori\\ModeloParcialClase12_DAS\\UI\\Entity\\Entity.csproj": {
-              "projectPath": "D:\\Antinori\\ModeloParcialClase12_DAS\\UI\\Entity\\Entity.csproj"
+            "D:\\Antinori\\ModeloParcialClase12_DAS\\UI\\UAIStore\\Entity\\Entity.csproj": {
+              "projectPath": "D:\\Antinori\\ModeloParcialClase12_DAS\\UI\\UAIStore\\Entity\\Entity.csproj"
             }
           }
         }

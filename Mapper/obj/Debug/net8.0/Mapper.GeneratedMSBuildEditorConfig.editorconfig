@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Mapper
-build_property.ProjectDir = D:\Antinori\ModeloParcialClase12_DAS\UI\Mapper\
+build_property.ProjectDir = D:\Antinori\ModeloParcialClase12_DAS\UI\UAIStore\Mapper\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
