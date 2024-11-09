@@ -1,0 +1,15 @@
+D:\Antinori\ModeloParcialClase12_DAS\UI\Mapper\bin\Debug\net8.0\Mapper.deps.json
+D:\Antinori\ModeloParcialClase12_DAS\UI\Mapper\bin\Debug\net8.0\Mapper.dll
+D:\Antinori\ModeloParcialClase12_DAS\UI\Mapper\bin\Debug\net8.0\Mapper.pdb
+D:\Antinori\ModeloParcialClase12_DAS\UI\Mapper\bin\Debug\net8.0\Entity.dll
+D:\Antinori\ModeloParcialClase12_DAS\UI\Mapper\bin\Debug\net8.0\Entity.pdb
+D:\Antinori\ModeloParcialClase12_DAS\UI\Mapper\obj\Debug\net8.0\Mapper.csproj.AssemblyReference.cache
+D:\Antinori\ModeloParcialClase12_DAS\UI\Mapper\obj\Debug\net8.0\Mapper.GeneratedMSBuildEditorConfig.editorconfig
+D:\Antinori\ModeloParcialClase12_DAS\UI\Mapper\obj\Debug\net8.0\Mapper.AssemblyInfoInputs.cache
+D:\Antinori\ModeloParcialClase12_DAS\UI\Mapper\obj\Debug\net8.0\Mapper.AssemblyInfo.cs
+D:\Antinori\ModeloParcialClase12_DAS\UI\Mapper\obj\Debug\net8.0\Mapper.csproj.CoreCompileInputs.cache
+D:\Antinori\ModeloParcialClase12_DAS\UI\Mapper\obj\Debug\net8.0\Mapper.csproj.CopyComplete
+D:\Antinori\ModeloParcialClase12_DAS\UI\Mapper\obj\Debug\net8.0\Mapper.dll
+D:\Antinori\ModeloParcialClase12_DAS\UI\Mapper\obj\Debug\net8.0\refint\Mapper.dll
+D:\Antinori\ModeloParcialClase12_DAS\UI\Mapper\obj\Debug\net8.0\Mapper.pdb
+D:\Antinori\ModeloParcialClase12_DAS\UI\Mapper\obj\Debug\net8.0\ref\Mapper.dll
